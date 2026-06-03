@@ -74,7 +74,7 @@ public class FrmHotel extends javax.swing.JFrame {
 
         getContentPane().add(jPanel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 440, 1200, 570));
 
-        jLabel4.setText("jLabel4");
+        jLabel4.setText("Modulo de hospedaje del hotel");
         getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 30, 1210, -1));
 
         jPanel10.setMaximumSize(new java.awt.Dimension(2147, 2147));
